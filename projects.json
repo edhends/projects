@@ -1,3 +1,5 @@
+
+
 [
     {
         "_id": "63c688915ad11l60901b7c7e",
@@ -70,12 +72,12 @@
         ],
         "features": [
             {
-                "image": "https://i.ibb.co/3p9XXDd/f1.png",
+                "image": "https://i.ibb.co/Z1hKQR7/7.png",
                 "title": "Community Health Partner",
                 "detils": "HealthOpX provides operational software to community-based organizations, enabling them to effectively manage their programs and collaborate with government and healthcare entities."
             },
             {
-                "image": "https://i.ibb.co/56kdnrR/f3.png",
+                "image": "https://i.ibb.co/F4qxzFg/13.png",
                 "title": "Community Health Improvements With Technology",
                 "detils": "HealthOpX's predictive analytics tool allows for the evaluation of a member's likelihood of readmission, emergency room visits, and morbidity. Additionally, we have a platform that partners with community-based organizations (CBOs) to implement preventative care and interventions based on these risk assessments. The feedback from the CBOs' actions on the service-based platform is incorporated into the algorithm, enabling us to determine the impact on reducing the risk of specific events or improving overall health initiatives."
             }
@@ -88,14 +90,14 @@
         "title": "This project involves an AI-powered marketing dashboard and software as a service. We have revolutionized the way behavioral data is processed and implemented AI and automation to make it work effectively.",
         "image": "https://i.ibb.co/rfQ5Qxf/main.png",
         "images": [
+            {"img": "https://i.ibb.co/M8ZWDWq/Screenshot-1.png"},
             {"img": "https://i.ibb.co/pJn9KTw/2.png"},
             {"img": "https://i.ibb.co/kSQdZmH/3.png"},
             {"img": "https://i.ibb.co/wWvvNmG/4.png"},
             {"img": "https://i.ibb.co/GcCg1R9/5.png"},
             {"img": "https://i.ibb.co/D7ngPfY/6.png"},
             {"img": "https://i.ibb.co/37SnfLB/7.png"},
-            {"img": "https://i.ibb.co/hH0C2tN/8.png"},
-            {"img": "https://i.ibb.co/M8ZWDWq/Screenshot-1.png"}
+            {"img": "https://i.ibb.co/hH0C2tN/8.png"}
         ],
         "overview": "We've revolutionized behavioral data processing and implemented it with the use of AI and automation. As a result, we've become #17 on Europe's fastest growing technology sector companies according to Financial Times and Statista.com. Our platform is API-first, headless, customizable, and scalable, allowing for real-time interaction management and efficient execution of business scenarios through our low-code platform, which is driven by science and data orchestration.",
         "liveSite": "https://synerise.com/",
@@ -151,17 +153,17 @@
         ],
         "features": [
             {
-                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/6d90ee9d65cf42ed9ada3ca7b467f2ff.jpg",
+                "image": "https://i.ibb.co/D7ngPfY/6.png",
                 "title": "Retail",
                 "detils": "Seamlessly integrate online and offline customer activities for a true 360-degree profile, updated in real time, while delivering customised content at scale.."
             },
             {
-                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/ab9c35443bf245f59ba259c8fe4bd014.jpg",
+                "image": "https://i.ibb.co/GcCg1R9/5.png",
                 "title": "E-commerce",
                 "detils": "Monitor customer touchpoints for optimised content and pricing information in tailored conversion paths."
             },
             {
-                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/0f932db1cafe4957b0dce590b1edb321.jpg",
+                "image": "https://i.ibb.co/hH0C2tN/8.png",
                 "title": "Automotive",
                 "detils": "Improve the efficiency of lead generation and sales funnel strategies to increase showroom traffic and enhance the overall customer experience."
             }
@@ -233,7 +235,7 @@
         ],
         "features": [
             {
-                "image": "https://mastermind.com/wp-content/uploads/2022/07/build-your-business2x-1024x794.png",
+                "image": "https://i.ibb.co/9ZGJCC4/5.png",
                 "title": "Build Your Business With Simplicity",
                 "detils": "We've all experienced the same scenario repeatedly: initial excitement and a clear vision for what to sell, communicate, and target audience, but technology complications hinder progress."
             }
@@ -336,12 +338,12 @@
         ],
         "features": [
             {
-                "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact3.png",
+                "image": "https://i.ibb.co/0czxkgD/6.png",
                 "title": "The Execution board",
                 "detils": "The user is able to access all necessary business objects and make prompt decisions, seamlessly collaborate with team members, and view the outcomes of their efforts."
             },
             {
-                "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact4.png",
+                "image": "https://i.ibb.co/Pht9nxK/8.png",
                 "title": "Work with DOTs",
                 "detils": "This company has developed AIOconnect, a specialized suite specifically built for analytics platforms. AIOconnect enables you to seamlessly integrate all relevant business objects as Digital Object Twins (DOTs) into AIO impact. DOTs are digital replicas of real-world objects that allow you to quantify the benefits of improvement measures and actions. These objects can be easily imported from ERPs, planning or analytics systems, and then used to project and steer improvement initiatives, execute decisions, and resolve incidents."
             }
@@ -431,7 +433,7 @@
         ],
         "features": [
             {
-                "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
+                "image": "https://i.ibb.co/7QwmvLN/3.png",
                 "title": "Editing orders",
                 "detils": "These included adding and editing orders, allowing customers to change or cancel orders and get refunds where possible. Customers are also able to upload data using a CSV file."
             },
@@ -528,7 +530,7 @@
         ],
         "features": [
             {
-                "image": "https://www.solvd.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmyfitnesspal-results-1.75618210.jpg&w=1920&q=75",
+                "image": "https://i.ibb.co/LhwQgDX/6.png",
                 "title": "A healthy diet is the foundation of good health.",
                 "detils": "Improve your eating habits and achieve your nutritional goals by tracking your meals, understanding your habits, and utilizing MyFitnessPal."
             }
