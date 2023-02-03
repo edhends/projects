@@ -4,8 +4,8 @@
         "index": 0,
         "projectName": "HealthOpX",
         "title": "HealthOpx is a healthcare consulting and technology firm offering services including strategic planning, data analytics, and digital transformation to healthcare organizations.",
-        "image": "https://i.ibb.co/Df5LmLz/main.png",
-         "images": [
+        "image":"https://i.ibb.co/rfQ5Qxf/main.png",
+        "images": [
             {"img": "https://i.ibb.co/VCRYj5R/1.png"},
             {"img": "https://i.ibb.co/GcYJB4q/2.png"},
             {"img": "https://i.ibb.co/zsKxSSQ/3.png"},
@@ -87,6 +87,16 @@
         "projectName": "Synerise",
         "title": "This project involves an AI-powered marketing dashboard and software as a service. We have revolutionized the way behavioral data is processed and implemented AI and automation to make it work effectively.",
         "image": "https://i.ibb.co/rfQ5Qxf/main.png",
+        "images": [
+            {"img": "https://i.ibb.co/pJn9KTw/2.png"},
+            {"img": "https://i.ibb.co/kSQdZmH/3.png"},
+            {"img": "https://i.ibb.co/wWvvNmG/4.png"},
+            {"img": "https://i.ibb.co/GcCg1R9/5.png"},
+            {"img": "https://i.ibb.co/D7ngPfY/6.png"},
+            {"img": "https://i.ibb.co/37SnfLB/7.png"},
+            {"img": "https://i.ibb.co/hH0C2tN/8.png"},
+            {"img": "https://i.ibb.co/M8ZWDWq/Screenshot-1.png"}
+        ],
         "overview": "We've revolutionized behavioral data processing and implemented it with the use of AI and automation. As a result, we've become #17 on Europe's fastest growing technology sector companies according to Financial Times and Statista.com. Our platform is API-first, headless, customizable, and scalable, allowing for real-time interaction management and efficient execution of business scenarios through our low-code platform, which is driven by science and data orchestration.",
         "liveSite": "https://synerise.com/",
         "technologies": [
@@ -163,6 +173,15 @@
         "projectName": "MasterMind",
         "title": "Selling Your Expertise Online: A New Approach",
         "image": "https://i.ibb.co/zf1ngfP/main.png",
+        "images": [
+            {"img": "https://i.ibb.co/h9JXFZ2/1.png"},
+            {"img": "https://i.ibb.co/kBP43Wc/2.png"},
+            {"img": "https://i.ibb.co/T2QPLxY/3.png"},
+            {"img": "https://i.ibb.co/ZMBK4Bv/4.png"},
+            {"img": "https://i.ibb.co/9ZGJCC4/5.png"},
+            {"img": "https://i.ibb.co/NFmymMS/6.png"},
+            {"img": "https://i.ibb.co/2jS4JBd/7.png"}
+        ],
         "overview": "MasterMind is an all-in-one event management system designed to assist inexperienced coordinators in streamlining the organization process. With its comprehensive set of features, including timelines, task and requirement lists, participant registration and payment options, an interactive wizard for creating promotional websites and event agendas, and video guides, MasterMind makes event coordination a breeze.",
         "liveSite": "https://mastermind.com/",
         "technologies": [
@@ -224,6 +243,16 @@
         "_id": "63c68891256ca3b34c9j6510",
         "index": 3,
         "projectName": "AIO impact",
+        "images": [
+            {"img": "https://i.ibb.co/LJr2R3h/1.png"},
+            {"img": "https://i.ibb.co/C9Nvr3m/2.png"},
+            {"img": "https://i.ibb.co/hRJ3jsk/3.png"},
+            {"img": "https://i.ibb.co/hKN1TBd/4.png"},
+            {"img": "https://i.ibb.co/hfKYVKS/5.png"},
+            {"img": "https://i.ibb.co/0czxkgD/6.png"},
+            {"img": "https://i.ibb.co/jyVJznK/7.png"},
+            {"img": "https://i.ibb.co/Pht9nxK/8.png"}
+        ],
         "title": "Revolutionizing Online Sales: Combining Data Analysis and Digital Strategies",
         "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact1.png",
         "overview": "AIO Impact, a product developed by Aioneers, is revolutionizing the future of supply chain management through its AI-based digital execution system. The system offers a streamlined workflow that integrates analytics, decision support, and digital execution to optimize supply chain operations. Aioneers achieves this through a combination of consulting, data science, and technology. We worked closely with Aioneers to develop a cloud-based infrastructure that streamlines workflow processes. Business goals are set by the client and tasks are created to achieve them, moving through various stages. In the analytics stage, data is analyzed by data scientists to identify issues and generate actionable recommendations for improvement. For example, if a business needs to increase production of a certain product, the system offers options such as purchasing additional equipment or hiring additional workers. Supply chain consultants provide guidance and monitor progress through real-time dashboards.",
@@ -324,6 +353,12 @@
         "projectName": "Dropyzon",
         "title": "Dropyzon required a gateway that would enable their dropshipping customers to place orders on Amazon and have the products delivered directly to their end-consumers.",
         "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon.png",
+        "images": [
+            {"img": "https://i.ibb.co/XJZcvXJ/1.png"},
+            {"img": "https://i.ibb.co/QKKd6zf/2.png"},
+            {"img": "https://i.ibb.co/7QwmvLN/3.png"},
+            {"img": "https://i.ibb.co/jTYmHhb/4.png"}
+        ],
         "overview": "Dropyzon required a portal that would facilitate their dropshipping clients in ordering products from Amazon, with delivery directly to their customers. The portal would enable Dropyzon to source products at the most competitive prices across the Amazon platform, generate tracking numbers, and dispatch the items directly to the drop shipper's customers. The client needed a comprehensive solution to be developed from the ground up, encompassing both the backend and frontend operations. The portal had to feature an engaging and user-friendly UI/UX, options for integration with other platforms, and the ability to scale as the business grows.",
         "liveSite": "https://www.dropyzon.com/",
         "technologies": [
@@ -428,6 +463,17 @@
         "projectName": "MyFitnessPal",
         "title": "Increasing MyFitnessPal user growth from 30 million to 200 million by delivering exceptional quality assurance services.",
         "image": "https://i.ibb.co/LgHVcP1/Screenshot-5.png",
+        "images": [
+            {"img": "https://i.ibb.co/p1pLKZz/1.png"},
+            {"img": "https://i.ibb.co/9c1dbmg/2.png"},
+            {"img": "https://i.ibb.co/LPrQDk2/3.png"},
+            {"img": "https://i.ibb.co/HH1nHG0/4.png"},
+            {"img": "https://i.ibb.co/t3c7jBx/5.png"},
+            {"img": "https://i.ibb.co/LhwQgDX/6.png"},
+            {"img": "https://i.ibb.co/jv0M20C/7.png"},
+            {"img": "https://i.ibb.co/TrF4Bsz/9.png"},
+            {"img": "https://i.ibb.co/7N21bGC/11.png"}
+        ],
         "overview": "MyFitnessPal is a widely used health and fitness app, boasting a user base of over 200 million. The app allows users to monitor their calorie intake, analyze meal components, and record physical activities. As part of the development team, you will be responsible for constructing the app's test automation infrastructure, creating and maintaining automation tests, and implementing an efficient quality assurance process for frequent release cycles.",
         "liveSite": "https://www.myfitnesspal.com/",
         "technologies": [
@@ -489,8 +535,5 @@
         ]
     }
 ]
-
-
-
 
 
