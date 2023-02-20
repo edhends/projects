@@ -32,13 +32,10 @@
         ],
         "services": [
             {
-                "name": "UX/UI design"
-            },
-            {
                 "name": "Front end  Development"
             },
             {
-                "name": "back end  Development"
+                "name": "Back end  Development"
             }
         ],
         "challenges": [
@@ -250,7 +247,7 @@
         ],
         "title": "Revolutionizing Online Sales: Combining Data Analysis and Digital Strategies",
         "image": "https://inventorsoft.co/assets/images/projects/aio-impact/aio-impact1.png",
-        "overview": "AIO Impact, a product developed by Aioneers, is revolutionizing the future of supply chain management through its AI-based digital execution system. The system offers a streamlined workflow that integrates analytics, decision support, and digital execution to optimize supply chain operations. Aioneers achieves this through a combination of consulting, data science, and technology. We worked closely with Aioneers to develop a cloud-based infrastructure that streamlines workflow processes. Business goals are set by the client and tasks are created to achieve them, moving through various stages. In the analytics stage, data is analyzed by data scientists to identify issues and generate actionable recommendations for improvement. For example, if a business needs to increase production of a certain product, the system offers options such as purchasing additional equipment or hiring additional workers. Supply chain consultants provide guidance and monitor progress through real-time dashboards.",
+        "overview": "AIO Impact, a product developed by Aioneers, is revolutionizing the future of supply chain management through its AI-based digital execution system. The system offers a streamlined workflow that integrates analytics, decision support, and digital execution to optimize supply chain operations. Aioneers achieves this through a combination of consulting, data science, and technology. I worked closely with Aioneers to develop a cloud-based infrastructure that streamlines workflow processes. Business goals are set by the client and tasks are created to achieve them, moving through various stages. In the analytics stage, data is analyzed by data scientists to identify issues and generate actionable recommendations for improvement. For example, if a business needs to increase production of a certain product, the system offers options such as purchasing additional equipment or hiring additional workers. Supply chain consultants provide guidance and monitor progress through real-time dashboards.",
         "liveSite": "https://www.aioneers.com/platform/aioimpact",
         "technologies": [
             {
