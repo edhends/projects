@@ -89,7 +89,7 @@
             {"img": "https://i.ibb.co/37SnfLB/7.png"},
             {"img": "https://i.ibb.co/hH0C2tN/8.png"}
         ],
-        "overview": "We've revolutionized behavioral data processing and implemented it with the use of AI and automation. As a result, we've become #17 on Europe's fastest growing technology sector companies according to Financial Times and Statista.com. Our platform is API-first, headless, customizable, and scalable, allowing for real-time interaction management and efficient execution of business scenarios through our low-code platform, which is driven by science and data orchestration.",
+        "overview": "I have revolutionized behavioral data processing and implemented it with the use of AI and automation. As a result, I have become #17 on Europe's fastest growing technology sector companies according to Financial Times and Statista.com. This platform is API-first, headless, customizable, and scalable, allowing for real-time interaction management and efficient execution of business scenarios through my low-code platform, which is driven by science and data orchestration.",
         "liveSite": "https://synerise.com/",
         "technologies": [
             {
@@ -189,7 +189,7 @@
         ],
         "services": [
             {
-                "name": "UX/UI design"
+                "name": "Back-end Development"
             },
             {
                 "name": "Web Development"
@@ -227,7 +227,7 @@
             {
                 "image": "https://i.ibb.co/9ZGJCC4/5.png",
                 "title": "Build Your Business With Simplicity",
-                "detils": "We've all experienced the same scenario repeatedly: initial excitement and a clear vision for what to sell, communicate, and target audience, but technology complications hinder progress."
+                "detils": "I've all experienced the same scenario repeatedly: initial excitement and a clear vision for what to sell, communicate, and target audience, but technology complications hinder progress."
             }
         ]
     },
@@ -292,10 +292,10 @@
         ],
         "services": [
             {
-                "name": "Frontend"
+                "name": "Front-end"
             },
             {
-                "name": "Backend"
+                "name": "Back-end"
             }
         ],
         "challenges": [
@@ -387,7 +387,7 @@
         ],
         "services": [
             {
-                "name": "Backend"
+                "name": "Back-end"
             },
             {
                 "name": "Testing"
@@ -435,17 +435,17 @@
             {
                 "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon2.png",
                 "title": "Order update interface",
-                "detils": "We developed an interface for updating orders, allowing users to view changes to their products, such as delivery tracking information and location data, as well as any issues with the product. The platform is fully integrated with Amazon."
+                "detils": "I developed an interface for updating orders, allowing users to view changes to their products, such as delivery tracking information and location data, as well as any issues with the product. The platform is fully integrated with Amazon."
             },
             {
                 "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
                 "title": "Integration with another platform",
-                "detils": "In addition to compatibility with Amazon, we also incorporated integration with eBay to facilitate a highly automated business model for intermediaries. This feature enables the platform to place orders on eBay, manage them, purchase items from Amazon, assign tracking numbers, and deliver to the final customer. We subsequently connected the platform to Payoneer and PayPal after completing this development."
+                "detils": "In addition to compatibility with Amazon, we also incorporated integration with eBay to facilitate a highly automated business model for intermediaries. This feature enables the platform to place orders on eBay, manage them, purchase items from Amazon, assign tracking numbers, and deliver to the final customer. I subsequently connected the platform to Payoneer and PayPal after completing this development."
             },
             {
                 "image": "https://inventorsoft.co/assets/images/projects/dropyzon/dropyzon1.png",
                 "title": "Registration pages",
-                "detils": "We implemented registration pages and a login feature utilizing Google Forms, and added an email verification process to ensure the platform's security and safety."
+                "detils": "I implemented registration pages and a login feature utilizing Google Forms, and added an email verification process to ensure the platform's security and safety."
             }
         ]
     },
@@ -496,7 +496,7 @@
         ],
         "services": [
             {
-                "name": "Backend"
+                "name": "Back-end"
             },
             {
                 "name": "Testing"
@@ -515,7 +515,7 @@
                 "name": "As new updates are released, the need for regression tests increases. To address this challenge, we have developed Carina, a mobile test automation framework in our labs. One of its key benefits is the ability to reuse 80% of code between IOS and Android automated test cases, significantly accelerating the development of automated tests."
             },
             {
-                "name": "We have expanded our coverage to a global scale, with support for 15 languages on web and 20 on mobile. Our QA process has been adapted to fully support international locales, and we have transformed it into a fully automated testing sequence, beginning with manual acceptance."
+                "name": "I have expanded our coverage to a global scale, with support for 15 languages on web and 20 on mobile. My QA process has been adapted to fully support international locales, and we have transformed it into a fully automated testing sequence, beginning with manual acceptance."
             }
         ],
         "features": [
